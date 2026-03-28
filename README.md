@@ -1,4 +1,4 @@
-# Climate Data Analysis
+# Analiza zmienności klimatu 
 
 Projekt analizy danych klimatycznych dla obszaru wschodniej Sycylii w latach 2005–2024, obejmujący identyfikację trendów temperatury i opadów oraz wizualizację zmian w czasie.
 
